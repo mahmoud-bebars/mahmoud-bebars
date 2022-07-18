@@ -75,12 +75,10 @@ Any Way You Can Reach me In the Following Channels for intresting Discussion ðŸ¥
 
 <br />
 
-<a herf="https://twitter.com/devbebars"  >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height:50px" />
-</a> &nbsp; &nbsp; 
-<a herf="https://twitter.com/devbebars"  >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-style="height:50px" />
-</a>
+<i class="devicon-twitter-original"><a herf="https://twitter.com/devbebars"  > Reach me On Twitter
+</a></i>
 
-<br />
+<i class="devicon-linkedin-plain"><a herf="https://twitter.com/devbebars"  >
+Reach Me on Linkedin
+</a></i>
+
