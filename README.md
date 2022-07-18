@@ -16,7 +16,7 @@ I'm a self-taught `Back-End Developer` Searching For Problems & Creative Soultio
 
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 
 ## - Used Languages
@@ -75,10 +75,8 @@ Any Way You Can Reach me In the Following Channels for intresting Discussion ðŸ¥
 
 <br />
 
-<i class="devicon-twitter-original"><a herf="https://twitter.com/devbebars"  > Reach me On Twitter
-</a></i>
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height:30px" />](https://twitter.com/devbebars)
+   &nbsp; &nbsp; 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:30px" />](https://twitter.com/devbebars)
 
-<i class="devicon-linkedin-plain"><a herf="https://twitter.com/devbebars"  >
-Reach Me on Linkedin
-</a></i>
 
