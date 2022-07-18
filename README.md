@@ -77,6 +77,6 @@ Any Way You Can Reach me In the Following Channels for intresting Discussion ðŸ¥
 
  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height:30px" />](https://twitter.com/devbebars)
    &nbsp; &nbsp; 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:30px" />]([https://twitter.com/devbebars](https://www.linkedin.com/in/mbebars/))
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:30px" />](https://www.linkedin.com/in/mbebars/)
 
 
