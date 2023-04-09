@@ -6,7 +6,7 @@ I'm a self-taught `Back-End Developer` Searching For Problems & Creative Soultio
 
 `The Problem could be that i need something to remind me Drinking water For Example.`
 
-- 🔭 Working on... Creating E-Commarce App.
+- 🔭 Working on... E-Commarce App.
 
 - 🌱 Currently learning...  [Advanced ReactJS](https://reactjs.org/)
 
