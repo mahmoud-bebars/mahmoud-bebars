@@ -1,31 +1,96 @@
-# Hi There ✌️
-## Just Call Me Bob Bro...
-<!--  ![](https://komarev.com/ghpvc/?username=mahmoud-bebars&color=blue&style=flat) -->
+<h1 align="center"> Hi There ✌️</h1>
+<h3 align="center">I'm Mahmoud Bebars</h3>
+<h4 align="center">A Software Developer, from Egypt<h3/>
 
-I'm a self-taught `Back-End Developer` Searching For Problems & Creative Soultions For this Problems.
+<p align="center"><code>The Problem could be</code> <br/><code>I want To Access My Data Faster</code></p>
 
-`The Problem could be that i need something to remind me Drinking water For Example.`
+<h4 align="center"> 🔭  Building <b>The Next Big Online Solution.</b></h4>
 
-- 🔭 Working on... E-Commarce App.
+ <h4 align="center">🌱 Currently learning <b>NextJS</b></h4>
 
-- 🌱 Currently learning...  [Advanced ReactJS](https://reactjs.org/)
+ <h4 align="center">🚀 Proud to Create <b>Loyal Cards</b> </h4>
 
-- 🚀 Proud to Create this... [UNI Authantication Model](https://github.com/mahmoud-bebars/Uni-Auth-Model).
+ <h4 align="center">👯 Looking to collaborate on <b>Creative projects</b></h4>
 
-- 👯 Looking to... collaborate on Creative projects.
+<div align="center"><h1 padding="5">Languages, FrameWorks & Tools  🛠️</h1></div> 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+</div>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+ 
+</div>
+<div align="center">
+ <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
+</div>
+
+<div align="center"><h1 padding="5">Reach Me</h1></div> 
+
+<div align="center">
+  <a href="https://www.instagram.com/m.bebars/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mbebars/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/m.bebars" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://twitter.com/devbebars" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://dev.to/mahmoud_bebars" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+</div>
 
 ##
 
-|Programming Languages 🌐|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascripts" width="24">](https://javascript.com/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="24">](https://www.typescriptlang.org)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" width="24">](https://dart.dev/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="24">](https://developer.mozilla.org/en-US/docs/Web/HTML)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="24">](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)|
-|----------------------|-|-|-|-|-|
 
-|FrameWorks 🛠️| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="24">](https://nodejs.dev/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="expressjs" width="24">](https://expressjs.com/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="tailwind" width="24">](https://reactjs.org/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind" width="24">](https://tailwindcss.com/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="24">](https://flutter.dev/)|
-|----------------------|-|-|-|-|-|
+<div align="center"><h1 padding="5">My Insights</h1></div> 
 
-|Tools  🛠️|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongo" width="40" height="20">](https://www.mongodb.com)|[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="24">](https://git-scm.com/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="24">](https://www.docker.com/)|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="24">](https://aws.amazon.com/)|
-|----------------------|-|-|-|-|-|-|
-
-##
-
-|Reach me 🥸| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height:30px" />](https://twitter.com/devbebars)|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:30px" />](https://www.linkedin.com/in/mbebars/)|
-|-------|------|-----|
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-bebars&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-bebars&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
