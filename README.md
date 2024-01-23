@@ -8,7 +8,7 @@
 
  <h4 align="center">🌱 Currently learning <b>NextJS</b></h4>
 
- <h4 align="center">🚀 Proud to Create <b>Loyal Cards</b> </h4>
+ <h4 align="center">🚀 Proud to Create <a target="_blank" href="https://www.loyaleg.com"><b>Loyal Cards</b><a/> </h4>
 
  <h4 align="center">👯 Looking to collaborate on <b>Creative projects</b></h4>
 
