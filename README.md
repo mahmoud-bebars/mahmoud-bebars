@@ -11,7 +11,8 @@
 }
 ``` 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbebars/)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://mbebars.medium.com)
-[![Portofolio](https://img.shields.io/badge/Portofolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoud-bebars.vercel.app)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-005E93?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbebars/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://mbebars.medium.com)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/m.bebars/)
+[![Portofolio](https://img.shields.io/badge/Portofolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoud-bebars.vercel.app)
+
