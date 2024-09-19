@@ -5,7 +5,7 @@
 {
   "about": "Hi 👋, I'm Mahmoud bebars, working as Software Engineer @ Think Solution ",
   "life": "A passionate Developer & Writer. from Egypt",
-  "Working_on": "Passing Knowledge to Others.",
+  "Working_on": "Lauching My New SaaS Application Dinefy.app",
   "looking_for": "Learning New Technologies & Integrating with AI Engines",
   "find_me_with": "mahmoud.bebars.me@gmail.com",
 }
