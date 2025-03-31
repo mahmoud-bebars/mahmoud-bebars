@@ -3,7 +3,7 @@
 ```json
 
 {
-  "about": "Hi 👋, I'm Mahmoud bebars, working as Software Engineer @ Think perfect Solutions ",
+  "about": "Hi 👋, I'm Mahmoud bebars, working as Software Engineer @ Think Perfect Solutions ",
   "life": "A passionate Developer & Writer. from Egypt",
   "Working_on": "Lauching My New SaaS Application Dinefy.app",
   "looking_for": "Learning New Technologies & Integrating with AI Engines",
