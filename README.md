@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║           MAHMOUD BEBARS  ·  @MedevTech              ║
+║           MAHMOUD BEBARS  ·  mahmoudbebars.dev       ║
 ║         Backend Engineer  ·  SaaS Builder            ║
 ║              Alexandria, Egypt  🇪🇬                   ║
 ╚══════════════════════════════════════════════════════╝
