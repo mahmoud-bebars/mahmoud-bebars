@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════╗
 ║           MAHMOUD BEBARS  ·  mahmoudbebars.dev       ║
 ║         Backend Engineer  ·  SaaS Builder            ║
-║              Alexandria, Egypt  🇪🇬                   ║
+║               Alexandria  ·  Egypt                   ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -26,8 +26,9 @@ I care about clean architecture, zero-data-retention design, and writing code th
 | Product | What it does | Stack |
 |--------|-------------|-------|
 | [**DocxMerge**](https://docxmerge.com) | Document generation & merge API — zero data retention | Fastify · Node.js · Railway |
-| [**SlidMenu**](https://slidmenu.com) | Digital menu SaaS for MENA restaurants — AI menu extraction from PDF | Fastify · React · Subdomain routing |
+| [**PDF2AI**](https://docxmerge.com) | takes any PDF file and converts it to clean Markdown (or plain text) using Claude's native PDF understanding. Unlike parser-based tools. | React · Tailwind · Anthropic API |
 | [**Hoqooqi**](https://hoqooqi.com) | Arabic-first AI legal contract generator | Hono.js · Cloudflare Workers · D1 |
+| [**Founder Playbook**](https://founder-playbook.mahmoudbebars.dev/) |walks founders through Anthropic's four-stage startup framework (Idea, MVP, Launch, Scale) in Arabic first | React · Anthropic API |
 
 ---
 
