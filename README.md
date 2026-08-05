@@ -14,7 +14,7 @@
 
 ### What I do
 
-I build backend systems and ship SaaS products independently under **MedevTech**.  
+I build backend systems and ship SaaS products independently under **memsaas**.  
 Not tutorials. Not side projects. Real products with real users.
 
 I care about clean architecture, zero-data-retention design, and writing code that survives production.
